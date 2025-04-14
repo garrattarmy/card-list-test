@@ -1,11 +1,47 @@
-# SWE INTERVIEW TEST 
-THIS IS TO TEST YOUR SKILLS TO MEET OUR APP DEVELOPMENT REQUIREMENTS
+# Simple Card List App
 
-1. Clone this repo to your local machine.
-2. Read `Assignment Requirements` carefully and follow it.
-4. Please commit your entire code to `your own Github repository` 
-5. On your repo, please add step-by-step instructions on how to launch (for both the Backend and Frontend) to the `README.md`
-6. Share your repo link with us via email.
+This is a full-stack web application that displays a list of products in a clean card format. Users can view product details and delete products. Built using React, Material UI, Node.js, and Express.
 
-HAPPY CODING! </br>
-A Round Entertainment
+## How to Launch the App Locally
+
+Follow the steps below to run both the Backend and Frontend on your local machine.
+
+### Backend Setup
+
+1. Open your terminal and navigate to the `backend` directory:
+   cd backend
+
+2. Install backend dependencies:
+   npm install
+
+3. Start the backend server:
+   node index.js
+
+4. The backend server will run at:
+   http://localhost:5001
+
+### Frontend Setup
+
+1. Open a new terminal window and navigate to the `frontend` directory:
+   cd frontend
+
+2. Install frontend dependencies:
+   npm install
+
+3. Start the frontend development server:
+   npm start
+
+4. The frontend will open in your browser at:
+   http://localhost:3000
+
+## Tech Stack
+
+- Frontend: React, Material UI, Axios
+- Backend: Node.js, Express
+- Images: https://picsum.photos
+
+## Features
+
+- Responsive product cards layout
+- Delete product functionality (frontend + backend)
+- Random image generation for each product
