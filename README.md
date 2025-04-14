@@ -8,7 +8,7 @@ Follow the steps below to run both the Backend and Frontend on your local machin
 
 ### Backend Setup
 
-1. Open your terminal and navigate to the `backend` directory:
+1. Open your terminal and navigate to the `project/backend` directory:
    cd backend
 
 2. Install backend dependencies:
@@ -22,7 +22,7 @@ Follow the steps below to run both the Backend and Frontend on your local machin
 
 ### Frontend Setup
 
-1. Open a new terminal window and navigate to the `frontend` directory:
+1. Open a new terminal window and navigate to the `project/frontend` directory:
    cd frontend
 
 2. Install frontend dependencies:
