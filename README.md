@@ -8,8 +8,8 @@ Follow the steps below to run both the Backend and Frontend on your local machin
 
 ### Backend Setup
 
-1. Open your terminal and navigate to the `project/backend` directory:
-   cd backend
+1. After cloning the repo, open your terminal and navigate to the `project/backend` directory:
+   cd project/backend
 
 2. Install backend dependencies:
    npm install
@@ -23,7 +23,7 @@ Follow the steps below to run both the Backend and Frontend on your local machin
 ### Frontend Setup
 
 1. Open a new terminal window and navigate to the `project/frontend` directory:
-   cd frontend
+   cd ../frontend
 
 2. Install frontend dependencies:
    npm install
